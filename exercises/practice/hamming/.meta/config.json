@@ -8,15 +8,9 @@
     "kytrinyx"
   ],
   "files": {
-    "solution": [
-      "hamming.vim"
-    ],
-    "test": [
-      "hamming.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["hamming.vim"],
+    "test": ["hamming.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "The Calculating Point Mutations problem at Rosalind",
   "source_url": "http://rosalind.info/problems/hamm/"

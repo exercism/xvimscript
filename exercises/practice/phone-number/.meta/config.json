@@ -8,15 +8,9 @@
     "kytrinyx"
   ],
   "files": {
-    "solution": [
-      "phone_number.vim"
-    ],
-    "test": [
-      "phone_number.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["phone_number.vim"],
+    "test": ["phone_number.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "Event Manager by JumpstartLab",
   "source_url": "http://tutorials.jumpstartlab.com/projects/eventmanager.html"

@@ -7,15 +7,9 @@
     "kotp"
   ],
   "files": {
-    "solution": [
-      "largest_series_product.vim"
-    ],
-    "test": [
-      "largest_series_product.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["largest_series_product.vim"],
+    "test": ["largest_series_product.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "A variation on Problem 8 at Project Euler",
   "source_url": "http://projecteuler.net/problem=8"

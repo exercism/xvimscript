@@ -7,15 +7,9 @@
     "kotp"
   ],
   "files": {
-    "solution": [
-      "pangram.vim"
-    ],
-    "test": [
-      "pangram.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["pangram.vim"],
+    "test": ["pangram.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "Wikipedia",
   "source_url": "https://en.wikipedia.org/wiki/Pangram"

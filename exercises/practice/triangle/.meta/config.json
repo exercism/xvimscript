@@ -7,15 +7,9 @@
     "kotp"
   ],
   "files": {
-    "solution": [
-      "triangle.vim"
-    ],
-    "test": [
-      "triangle.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["triangle.vim"],
+    "test": ["triangle.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "The Ruby Koans triangle project, parts 1 & 2",
   "source_url": "http://rubykoans.com"

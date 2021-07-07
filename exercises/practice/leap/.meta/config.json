@@ -9,15 +9,9 @@
     "thinca"
   ],
   "files": {
-    "solution": [
-      "leap.vim"
-    ],
-    "test": [
-      "leap.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["leap.vim"],
+    "test": ["leap.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "JavaRanch Cattle Drive, exercise 3",
   "source_url": "http://www.javaranch.com/leap.jsp"

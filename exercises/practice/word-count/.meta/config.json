@@ -8,15 +8,9 @@
     "kytrinyx"
   ],
   "files": {
-    "solution": [
-      "word_count.vim"
-    ],
-    "test": [
-      "word_count.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["word_count.vim"],
+    "test": ["word_count.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "This is a classic toy problem, but we were reminded of it by seeing it in the Go Tour."
 }

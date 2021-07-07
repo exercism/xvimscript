@@ -8,15 +8,9 @@
     "kytrinyx"
   ],
   "files": {
-    "solution": [
-      "rna_transcription.vim"
-    ],
-    "test": [
-      "rna_transcription.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["rna_transcription.vim"],
+    "test": ["rna_transcription.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "Hyperphysics",
   "source_url": "http://hyperphysics.phy-astr.gsu.edu/hbase/Organic/transcription.html"

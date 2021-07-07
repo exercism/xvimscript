@@ -8,15 +8,9 @@
     "kytrinyx"
   ],
   "files": {
-    "solution": [
-      "atbash_cipher.vim"
-    ],
-    "test": [
-      "atbash_cipher.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["atbash_cipher.vim"],
+    "test": ["atbash_cipher.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "Wikipedia",
   "source_url": "http://en.wikipedia.org/wiki/Atbash"

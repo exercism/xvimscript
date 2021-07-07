@@ -7,15 +7,9 @@
     "kotp"
   ],
   "files": {
-    "solution": [
-      "allergies.vim"
-    ],
-    "test": [
-      "allergies.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["allergies.vim"],
+    "test": ["allergies.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "Jumpstart Lab Warm-up",
   "source_url": "http://jumpstartlab.com"

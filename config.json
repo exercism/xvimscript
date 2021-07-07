@@ -27,10 +27,10 @@
       "%{snake_slug}.vader"
     ],
     "example": [
-      "example.vim"
+      ".meta/example.vim"
     ],
     "exemplar": [
-      "example.vim"
+      ".meta/example.vim"
     ]
   },
   "exercises": {

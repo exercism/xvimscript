@@ -8,15 +8,9 @@
     "kytrinyx"
   ],
   "files": {
-    "solution": [
-      "nucleotide_count.vim"
-    ],
-    "test": [
-      "nucleotide_count.vader"
-    ],
-    "example": [
-      "example.vim"
-    ]
+    "solution": ["nucleotide_count.vim"],
+    "test": ["nucleotide_count.vader"],
+    "example": [".meta/example.vim"]
   },
   "source": "The Calculating DNA Nucleotides_problem at Rosalind",
   "source_url": "http://rosalind.info/problems/dna/"
